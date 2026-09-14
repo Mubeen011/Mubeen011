@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Java | Spring Boot | Vue.js | React.js | AWS | MySQL</strong><br>
-  1 year experience building scalable full-stack applications 🌐☁️
+  2 years of experience building scalable full-stack applications 🌐☁️
 </p>
 
 ---
