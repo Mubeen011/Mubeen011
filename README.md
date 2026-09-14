@@ -47,5 +47,5 @@
 
 ---
 
-⚡ *Fun fact*: I find my reset in pixelated worlds — a quiet escape I look forward to when I’m home 🎮.
+⚡ *Fun fact*: I find my reset in pixelated worlds, a quiet escape I look forward to when I’m home 🎮.
 
