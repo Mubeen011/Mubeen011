@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Hyderabad, India</h3>
 
 <p align="center">
-  <strong>Java | Spring Boot | Vue.js | React.js | AWS | MySQL</strong><br>
+  <strong>Java | Spring Boot | Node.js | React.js | AWS | MySQL</strong><br>
   2 years of experience building scalable full-stack applications 🌐☁️
 </p>
 
