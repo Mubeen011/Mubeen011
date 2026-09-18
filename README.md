@@ -8,7 +8,7 @@
 
 ---
 
-🔭 I’m currently working on **Spring Boot & Vue.js** enterprise apps  
+🔭 I’m currently working on **Spring Boot & React.js** enterprise apps  
 🌱 Exploring more of **AWS**, **Cognito**, and **microservices**  
 💬 Ask me about `Java`, `Spring Boot`, `Vue.js`, `React`, `REST APIs`  
 📫 Reach me at: [mubeen.ahmed21120@gmail.com](mailto:mubeen.ahmed21120@gmail.com)  
