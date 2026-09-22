@@ -16,6 +16,7 @@
 
 🚀 **Featured Project**  
 🎯 [Desk Booking App](https://github.com/Mubeen011/flex-desk-app) — Built with React.js, Spring Boot, MySQL, AWS Cognito, Amazon RDS
+
 🎯 [SwiftPay App](https://github.com/Mubeen011/swiftpay) — Built with Java 21, Spring Boot, Kafka, PostgreSQL, Redis, Docker, Kubernetes, GitHub Actions, JUnit
 
 
