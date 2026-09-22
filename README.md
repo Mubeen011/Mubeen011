@@ -2,17 +2,17 @@
 <h3 align="center">Full Stack Developer from Hyderabad, India</h3>
 
 <p align="center">
-  <strong>Java | Spring Boot | Node.js | React.js | AWS | MySQL</strong><br>
+  <strong>Java | Spring Boot | Microservices | REST APIs | React.js | SQL | AWS | Kafka | Redis | Docker | Kubernetes | CI/CD</strong><br>
   2 years of experience building scalable full-stack applications 🌐☁️
 </p>
 
 ---
 
 🔭 I’m currently working on **Spring Boot & React.js** enterprise apps  
-🌱 Exploring more of **AWS**, **Cognito**, and **microservices**  
-💬 Ask me about `Java`, `Spring Boot`, `Vue.js`, `React`, `REST APIs`  
+🌱 Exploring more of **AWS**, **Cloud**, and **microservices**  
+💬 Ask me about `Java`, `Spring Boot`, `SQL`, `React`, `REST APIs`  
 📫 Reach me at: [mubeen.ahmed21120@gmail.com](mailto:mubeen.ahmed21120@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/-mubeen-ahmed)
+🌐 [LinkedIn](https://www.linkedin.com/in/mubeen-ahmed011/)
 
 🚀 **Featured Project**  
 🎯 [Desk Booking App](https://github.com/Mubeen011/flex-desk-app) — Built with React.js, Spring Boot, MySQL, AWS Cognito, Amazon RDS
